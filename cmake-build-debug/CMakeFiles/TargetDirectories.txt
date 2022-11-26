@@ -1,0 +1,3 @@
+/Users/youssefabdelkader/CLionProjects/practical week12/cmake-build-debug/CMakeFiles/practical_week12.dir
+/Users/youssefabdelkader/CLionProjects/practical week12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/youssefabdelkader/CLionProjects/practical week12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
